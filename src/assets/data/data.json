@@ -1,0 +1,143 @@
+{
+    "id": 1,
+    "nombre_completo": "Mauro Emanuel Cuassolo",
+    "edad": 25,
+    "ruta_foto": "...",
+    "acerca_de": "Amante de la tecnología, continuamente aprendiendo.",
+    "descripcion": "Programador.",
+    "ubicacion": "Córdoba, Argentina.",
+    "lista_estudios": [
+        {
+            "id_estudio": 8,
+            "nombre_estudio": "Estudiante de Ingeniería Electrónica UNC",
+            "nivel": "73%"
+        },
+        {
+            "id_estudio": 9,
+            "nombre_estudio": "Estudiante de Ingeniería en Computación UNC",
+            "nivel": "63%"
+        },
+        {
+            "id_estudio": 10,
+            "nombre_estudio": "Bachiller Universitario en Ciencias Aplicadas UNC (2021)",
+            "nivel": ""
+        },
+        {
+            "id_estudio": 11,
+            "nombre_estudio": "Educación secundaria: Bachiller en Ciencias Sociales y Humanidades",
+            "nivel": ""
+        },
+        {
+            "id_estudio": 40,
+            "nombre_estudio": "probando",
+            "nivel": ""
+        }
+    ],
+    "lista_habilidades": [
+        {
+            "id_habilidad": 12,
+            "habilidad": "HTML",
+            "nivel_hab": ""
+        },
+        {
+            "id_habilidad": 13,
+            "habilidad": "CSS",
+            "nivel_hab": ""
+        },
+        {
+            "id_habilidad": 14,
+            "habilidad": "Javascript",
+            "nivel_hab": ""
+        },
+        {
+            "id_habilidad": 15,
+            "habilidad": "Java",
+            "nivel_hab": ""
+        },
+        {
+            "id_habilidad": 16,
+            "habilidad": "C",
+            "nivel_hab": ""
+        },
+        {
+            "id_habilidad": 17,
+            "habilidad": "C++",
+            "nivel_hab": ""
+        },
+        {
+            "id_habilidad": 18,
+            "habilidad": "C#",
+            "nivel_hab": ""
+        },
+        {
+            "id_habilidad": 19,
+            "habilidad": "Assembly",
+            "nivel_hab": ""
+        },
+        {
+            "id_habilidad": 20,
+            "habilidad": "Python",
+            "nivel_hab": ""
+        },
+        {
+            "id_habilidad": 21,
+            "habilidad": "Flask",
+            "nivel_hab": ""
+        },
+        {
+            "id_habilidad": 22,
+            "habilidad": "SQL",
+            "nivel_hab": ""
+        },
+        {
+            "id_habilidad": 23,
+            "habilidad": "Arduino",
+            "nivel_hab": ""
+        },
+        {
+            "id_habilidad": 24,
+            "habilidad": "SpringBoot",
+            "nivel_hab": ""
+        }
+    ],
+    "lista_idiomas": [
+        {
+            "id_idioma": 29,
+            "nivel_idioma": "Básico.",
+            "idioma": "Alemán"
+        },
+        {
+            "id_idioma": 30,
+            "nivel_idioma": "Avanzado",
+            "idioma": "Inglés"
+        }
+    ],
+    "lista_proyectos": [
+        {
+            "id_proyecto": 31,
+            "proyecto": "portafolio",
+            "link_proyecto": ""
+        }
+    ],
+    "lista_contactos": [
+        {
+            "id_contacto": 35,
+            "nombre_contacto": "juan",
+            "numero_telefono": "perez",
+            "mail": "@",
+            "mensaje": "hola"
+        }
+    ],
+    "lista_redes": [
+        {
+            "id_contacto": 33,
+            "red_social": "LinkedIn",
+            "link_contacto": ""
+        },
+        {
+            "id_contacto": 38,
+            "red_social": "mail",
+            "link_contacto": "mauro.cuassolo@gmail.com"
+        }
+    ]
+}
